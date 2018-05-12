@@ -1,0 +1,53 @@
+_repo: In-the-Irish-Brigade--A-Tale-of-War-in-Flanders-and-Spain_18349
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Sheldon, Charles Mills
+    aliases:
+    - Sheldon, C. M. (Charles Mills)
+    - Sheldon, Charles M. (Charles Mills)
+    birthdate: 1866
+    deathdate: 1928
+    gutenberg_agent_id: '7958'
+    url: http://www.gutenberg.org/2009/agents/7958
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_bookshelf:
+- Children's Fiction
+- Historical Fiction
+gutenberg_issued: '2006-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kidnapping -- Juvenile fiction'
+- !lcsh 'Kings and rulers -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Flanders (France) -- Juvenile fiction'
+- !lcsh 'Diligence -- Juvenile fiction'
+- !lcsh 'Voyages and travels -- Juvenile fiction'
+- !lcsh 'France. Armée. Irish Brigade -- Juvenile fiction'
+- !lcsh 'War -- Juvenile fiction'
+- !lcsh 'Spain -- Juvenile fiction'
+- !lcsh 'Courage -- Juvenile fiction'
+- !lcsh 'Soldiers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Treason -- Juvenile fiction'
+- !lcsh 'Spanish Succession, War of, 1701-1714 -- Juvenile fiction'
+title: 'In the Irish Brigade: A Tale of War in Flanders and Spain'
+url: http://www.gutenberg.org/ebooks/18349
