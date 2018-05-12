@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1032
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18349#In-the-Irish-Brigade--A-Tale-of-War-in-Flanders-and-Spain
 gutenberg_bookshelf:
 - Children's Fiction
 - Historical Fiction
